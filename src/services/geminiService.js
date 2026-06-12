@@ -22,8 +22,8 @@ Important Rules:
 
 1. If the answer contains fewer than 10 words:
    - Communication Score = 1/10
-   - Technical Score = 0/10
    - Confidence Score = 1/10
+   - Clarity Score = 1/10
    - Final Feedback = "Answer too short to evaluate."
 
 2. Do NOT assume knowledge that is not present.
