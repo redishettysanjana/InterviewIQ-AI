@@ -69,13 +69,13 @@ If the answer is very short (less than 20 words), give low scores.
     console.error(error.response?.data || error.message);
 
     const communication = Math.floor(Math.random() * 3) + 7;
-    const technical = Math.floor(Math.random() * 3) + 6;
+    const clarity = Math.floor(Math.random() * 3) + 7;
     const confidence = Math.floor(Math.random() * 3) + 7;
 
     return `
 Communication Score: ${communication}/10
 
-Technical Score: ${technical}/10
+Clarity Score: ${clarity}/10
 
 Confidence Score: ${confidence}/10
 
