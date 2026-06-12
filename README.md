@@ -54,7 +54,7 @@ InterviewIQ is an AI-powered mock interview application that helps users practic
 ![Interview Page](public/images/Interview.png)
 
 ### AI Feedback
-![AI Feedback](public/images/AI-Feedback.png)
+![AI Feedback](public/images/Feedback.png)
 
 ### Interview Summary
 ![Interview Summary](public/images/Summary.png)
