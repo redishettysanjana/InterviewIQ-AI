@@ -16,7 +16,7 @@ export const analyzeInterviewAnswer = async (question, answer) => {
             parts: [
               {
                 text: `
-You are a strict technical interviewer.
+You are a professional HR interviewer.
 
 Important Rules:
 
@@ -85,12 +85,12 @@ Strengths:
 - Maintains interview flow
 
 Improvements:
-- Add more technical examples
+- Provide more detailed explanations
 - Improve confidence while answering
-- Provide structured responses
+- Use a more structured response
 
 Final Feedback:
-This answer demonstrates a good understanding of the question. Continue practicing interview communication and include more detailed technical explanations to improve your performance.
+This answer demonstrates a good understanding of the question. Continue practicing interview communication and provide more detailed responses to improve your performance.
 `;
   }
 };
