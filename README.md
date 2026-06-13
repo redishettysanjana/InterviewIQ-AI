@@ -1,4 +1,3 @@
-
 # 🎤 InterviewIQ – AI Powered Mock Interview Platform
 
 InterviewIQ is an AI-powered mock interview application that helps users practice interview questions, improve communication skills, and receive personalized feedback using Google's Gemini AI.
@@ -58,40 +57,6 @@ InterviewIQ is an AI-powered mock interview application that helps users practic
 
 ### Interview Summary
 ![Interview Summary](public/images/Summary.png)
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/redishettysanjana/InterviewIQ-AI.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd InterviewIQ-AI
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Create a .env file:
-
-```env
-VITE_GEMINI_API_KEY=YOUR_API_KEY
-```
-
-Run the project:
-
-```bash
-npm run dev
-```
 
 ---
 
